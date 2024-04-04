@@ -42,4 +42,4 @@ Este proyecto fue creado por el Grupo 8 como parte del Curso Java Codo a Codo 20
 
 
 # CAC24-Desafio1
-Desafío 1 del curso de Java correspondiente a la agencia Codo a Codo 2024
+Desafío 1 del curso de Java correspondiente a la agencia Codo a Codo 2024.
