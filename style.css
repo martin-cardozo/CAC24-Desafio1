@@ -1,0 +1,92 @@
+/* Configuración global */
+html {
+    scroll-behavior: smooth; /* Desplazamiento suave al hacer scroll */
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Incluir el borde en el tamaño total */
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #007BFF;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Estilos del menú de navegación */
+.menu{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu li {
+    border: 1px solid #666
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: #111;
+}
+
+/* Estilos del contenido principal */
+main {
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    text-align: justify;
+    scroll-margin-top: 60px; /* Ajusto este valor para que el título de cada sección sea visible */
+}
+
+.section-content {
+    display: flex; /* Mostrar en fila */
+    align-items: center; /* Alinear verticalmente */
+    justify-content: space-between; /* Distribuir el espacio */
+    padding: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: 300px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+.text-content {
+    flex: 1;
+    margin: 0 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
+}
