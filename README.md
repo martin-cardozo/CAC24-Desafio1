@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Desafío Grupo 8 - Curso Java Codo a Codo 2024
 
 Este repositorio contiene el código HTML y CSS para un sitio web educativo sobre diferentes tecnologías de desarrollo web.
@@ -41,7 +41,5 @@ El menú de navegación permite acceder directamente a cada sección del sitio. 
 Este proyecto fue creado por el Grupo 8 como parte del Curso Java Codo a Codo 2024.
 
 
-=======
 # CAC24-Desafio1
 Desafío 1 del curso de Java correspondiente a la agencia Codo a Codo 2024
->>>>>>> b49a5902208736cc4c893b17d2350178e3d1cbb4
